@@ -21,6 +21,12 @@
     margin: -3% auto 5%;
 }
 
+.subsubtitle {
+    font-size: 1.2em;
+    text-align: center;
+    margin: -2% auto 5%;
+}
+
 .grid-container {
     display: inline-grid;
     grid-template-columns: 24% 24% 24% 24%;
